@@ -91,6 +91,13 @@ p{
     color: white;
     width: 527px;
 }
+.logo{
+    position: relative;
+    height:80px;
+    width:80px;
+    bottom:0px;
+    right:550px
+}
 .nav-bar{
     position: absolute;
     left:771.27px;
